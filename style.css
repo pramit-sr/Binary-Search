@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+#heading{
+    color: white;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.inputTag{
+    color: white;
+    text-align: center;
+}
+#visualization{
+    color: white;
+}
+#elementTo{
+    color: white;
+}
+#heading2{
+    font-family:cursive;
+}
+#heading3{
+    background-color: yellow;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
